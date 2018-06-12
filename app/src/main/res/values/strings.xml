@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Login</string>
+    <string name="stuIdError">Wrong Student ID!</string>
+    <string name="passwordError">Wrong Passwords!</string>
+    <string name="loginUrl">http://uis.fudan.edu.cn/authserver/login?service=http%3A%2F%2Fjwfw.fudan.edu.cn%2Feams%2Fhome.action</string>
+    <string name="classUrl">http://jwfw.fudan.edu.cn/eams/courseTableForStd!courseTable.action</string>
+</resources>
+    <!--http://uis.fudan.edu.cn/authserver/login-->
+    <!--http://jwfw.fudan.edu.cn/eams/courseTableForStd!courseTable.action-->
+    <!--http://jwfw.fudan.edu.cn/eams/home.action-->
+    <!--/authserver/needCaptcha.html?username=17307130118&_=1528466235236-->
+    <!--/authserver/login?service=http://jwfw.fudan.edu.cn/eams/home.action-->
+    <!--http://uis.fudan.edu.cn/authserver/login?service=http%3A%2F%2Fjwfw.fudan.edu.cn%2Feams%2Fhome.action-->
+
