@@ -4,6 +4,7 @@
     <string name="passwordError">Wrong Passwords!</string>
     <string name="loginUrl">http://uis.fudan.edu.cn/authserver/login?service=http%3A%2F%2Fjwfw.fudan.edu.cn%2Feams%2Fhome.action</string>
     <string name="classUrl">http://jwfw.fudan.edu.cn/eams/courseTableForStd!courseTable.action</string>
+    <string name="courseTableUrl">http://jwfw.fudan.edu.cn//eams/courseTableForStd!courseTable.action</string>
 </resources>
     <!--http://uis.fudan.edu.cn/authserver/login-->
     <!--http://jwfw.fudan.edu.cn/eams/courseTableForStd!courseTable.action-->
