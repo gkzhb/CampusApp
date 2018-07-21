@@ -1,4 +1,4 @@
-package educn.fudan.zhb.helloworld;
+package edu.fudan.tengf.campusapp;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("educn.fudan.zhb.helloworld", appContext.getPackageName());
+        assertEquals("edu.fudan.tengf.campusapp", appContext.getPackageName());
     }
 }

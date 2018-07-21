@@ -1,4 +1,4 @@
-package educn.fudan.zhb.helloworld;
+package edu.fudan.tengf.campusapp;
 
 import org.junit.Test;
 
